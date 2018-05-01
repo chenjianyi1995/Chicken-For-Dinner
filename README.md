@@ -34,6 +34,6 @@
 #	used at which ranges. After that, all they need to do is figure out which combination
 #	works best for them.
 #
-# Video Link: 
+# Video Link: https\://youtu.be/1ByzGzS-pPQ
 # Paper Link: https\://docs.google.com/document/d/1YojdXyoQJMEATttpxetRpe_Ru787gnjhu3-a9qSyUWE/edit\?usp\=sharing
 #
